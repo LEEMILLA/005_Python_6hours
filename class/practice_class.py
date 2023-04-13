@@ -16,3 +16,5 @@ class FlyableUnit(Unit, Flyable):
 
 # 드랍쉽
 dropship = FlyableUnit()
+
+print("호구")
