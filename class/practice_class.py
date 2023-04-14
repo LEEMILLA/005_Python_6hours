@@ -17,4 +17,5 @@ class FlyableUnit(Unit, Flyable):
 # 드랍쉽
 dropship = FlyableUnit()
 
-print("호구")
+print("2023-04-14 미루기1")
+print("2023-04-14 미루기2")
